@@ -2,6 +2,13 @@
 
 Esta api se nos fue proporcionado para el uso en el diseño del proyecto en el modulo 4 aqui estamos haciendo una replica para el uso en el testing
 
+URL original del ing. que nos proporciono 
+
+  ```bash
+   git clone (https://github.com/IonVillarreal/product-gallery)
+   ```
+Codigo para testing modulo 5
+
 Esta es una API para gestionar una galería de productos utilizando NestJS, Prisma, SQLite y JWT para la autenticación. La API permite crear, leer, actualizar y eliminar productos, con rutas protegidas para la creación y edición de productos.
 
 ## Requisitos
@@ -56,5 +63,3 @@ Sigue los pasos a continuación para instalar y ejecutar la aplicación:
 
 8. Acceder a la documentación de la API:
    - Abre tu navegador y navega a `http://localhost:3000/api` para ver la documentación de Swagger.
-
-## Uso
